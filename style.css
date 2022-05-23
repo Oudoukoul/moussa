@@ -1,0 +1,150 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background:
+}
+.box
+{
+	position: absolute;
+	top: 15%;
+	left:49%;
+	transform: translate( -50%,-50%);
+	width: 615px;
+	padding: 30px;
+	box-sizing: border-box;
+	background: #CCCCCC;
+	border-radius: 1px;
+	box-shadow: 0 0px 0px rgba(0,0,.5);
+	display: flex;
+}
+.box .content
+{
+	padding-right:90px; 
+}
+.box .imgbx
+{
+	width: 150px;
+}
+.tabbox
+{
+	position: absolute;
+	top:100px;
+	left:360px;
+	transform: translate(-50,-50);
+	width: 600px;
+	padding: 50px;
+	box-sizing: border-box;
+	background:#CCCCCC;
+	border-radius: 1px;
+	box-shadow: 0 5px 15px rgba(0,0,.5);
+}
+.tablbox
+{
+	
+	position: absolute;
+	top:50px;
+	left:60px;
+	box-sizing: border-box;
+	background:#CCCCCC;
+}
+.bord
+{
+	position: absolute;
+	top:450px;
+	left:360px;
+	transform: translate(-50,-50);
+	width: 600px;
+	padding: 20px;
+	box-sizing: border-box;
+	background:
+}
+.bordbox
+{
+	position: absolute;
+	top:30px;
+	left:0px;
+	transform: translate(-50,-50);
+	width: 610px;
+	padding: 10px;
+	box-sizing: border-box;
+	background:#CCCCCC;
+}
+.bordcontent
+{
+	position: absolute;
+	top:100px;
+	left:0px;
+	width: 700px;
+	padding:10px;
+}
+
+.cards
+{
+	width: 300px;
+}
+.cardimag
+{
+	width: 100px;
+	margin: 50px;
+}
+.mark
+{
+	position: absolute;
+	top:-240px;
+	left:0px;
+	transform: translate(-50,-50);
+	width: 610px;
+	padding: 20px;
+	box-sizing: border-box;
+	background:#CCCCCC;
+
+}
+.tacle
+{
+	position: absolute;
+	top:500px;
+	left:360px;
+	transform: translate(-50,-50);
+	width: 610px;
+	padding: 100px;
+	box-sizing: border-box;
+	background:
+	border-radius: 1px;
+	box-shadow: 0 5px 20px rgba(0,0,.5)
+}
+.taclecontent
+{
+	position: absolute;
+	top:50px;
+	left:200px;
+	transform: translate(-50,-50);
+	width: 600px;
+	padding: 10px;
+}
+	
+.tablux
+{
+	 position: absolute;
+	top:260px;
+	left:650px;
+	transform: translate(-50,-50);
+	width: 500px;
+	padding:0px;
+	color: green;
+}
+.tabcontent
+{
+	position: absolute;
+	top:250px;
+	left:360px;
+	transform: translate(-50,-50);
+	width: 610px;
+	padding: 15px;
+	box-sizing: border-box;
+	background:
+	border-radius: 1px;
+	box-shadow: 0 5px 15px rgba(0,0,.5);
+
+}

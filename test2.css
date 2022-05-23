@@ -1,0 +1,130 @@
+.info{
+	background:#287265;
+	margin-top: 15%;
+	margin-left: 8%;
+	position: relative;
+	left: -40px;
+}
+.info h1 {
+	font-size: 70px;
+	color: red;
+	margin-bottom: 20px;
+}
+.span {
+	color: #ff4321;
+}
+.info p {
+	color: #212121;
+	line-height: 22px;
+}
+.info a {
+	background: #212121;
+	padding: 10px 10px;
+	text-decoration: none;
+	color: #fff;
+	display: inline-block;
+	margin: 30px 0px;
+	border-radius: 5px;
+	text-decoration: none;
+
+}
+.info a:hover{
+	background: #ff4321;
+}
+.imgbox{
+	height: 100%;
+	position: absolute;
+	top: 300px;
+	left: 65%;
+	bottom: 0;
+	right: 100%;
+}
+.imgbox img {
+	height: 100%;
+	position: absolute;
+	left: 60%;
+	bottom: 0;
+	transform: translate(-50px);
+}
+
+
+.recent{
+	position: absolute;
+	top: 20px;
+	left: 600px;
+}
+.contex{
+	position: relative;
+	top: 150px;
+display: flex;
+flex-wrap: wrap;
+background: #287265;
+}
+.cardx{
+	position: relative;
+	left:50px;
+	width: 500px;
+	margin: 40px;
+	background-color:#FFFFFF;
+	border-radius: 15px;
+	transition: 0.2s;
+	justify-content: center;
+}
+.cardimagx{
+	width: 120px;
+	border-radius: 5px 5px 0px 0px;
+	left: 20px;
+}
+.cardbodyx h2{
+	text-align: center;
+}
+.cardbodyx p{
+	text-align: justify;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+.cardfooterx{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cardfooterx button{
+	width: 150px
+	background:#000000;
+	color:#287265;
+	border-radius: 15px;
+	border: 2px solid #000000;
+	padding: 6px;
+	font-size: 17px;
+	cursor: pointer;
+	margin-bottom: 10px;
+	transition: 0.2s;
+
+}
+.activitex{
+	position: relative;
+	top: 150px;
+	left:500px;
+	color: #287265;
+
+
+}
+
+.cardfooterx button:hover{
+	background-color: #000000;
+	color:#FFFFFF;
+	border: 2px solid #287265;
+
+}
+
+.cardx:horever{
+	box-shadow:3.9px 7.8px 7.8px hsl(0deg 0% 0% / 0.38);
+}
+.outlinesuccess form button:hover {
+	background-color: #000000;
+	color: #ffd358;
+	text-decoration: underline;
+}
+.boot{
+	background: #287265;
+}
